@@ -1,8 +1,7 @@
 npmrc(5) -- The npm config files
 ================================
 
-## DESCRIPTION
-
+## DESCRIPTION In
 npm gets its config settings from the command line, environment
 variables, and `npmrc` files.
 
